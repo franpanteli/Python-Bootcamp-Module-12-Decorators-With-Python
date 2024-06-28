@@ -11,7 +11,7 @@ This repository contains a library of my notes on the twelfth module of a Python
 - **Platform:** Udemy
 
 ### In-Depth Contents
-This repository is organized into the following sections:
+This repository is organised into the following sections:
 
 1. **Jupyter Notebooks - Python Decorators:**
    [this directory](https://github.com/franpanteli/Python-Bootcamp-Module-12-Decorators-With-Python/tree/main/Jupyter%20Notebooks%20-%20Python%20Decorators) contains Jupyter notebooks that cover various aspects of Python decorators.
@@ -19,7 +19,7 @@ This repository is organized into the following sections:
    - [02-Decorators Homework](https://github.com/franpanteli/Python-Bootcamp-Module-12-Decorators-With-Python/blob/main/Jupyter%20Notebooks%20-%20Python%20Decorators/02-Decorators%20Homework.ipynb)
 
 2. **Notes on Videos - Module 12 Decorators With Python:**
-   This section contains PDF notes summarizing the key points from the video lectures in Module 12.
+   This section contains PDF notes summarising the key points from the video lectures in Module 12.
    - [1 of 2 Decorators with Python Overview](https://github.com/franpanteli/Python-Bootcamp-Module-12-Decorators-With-Python/blob/main/Notes%20on%20Videos%20-%20Module%2012%20Decorators%20With%20Python/1%20of%202%20Decorators%20with%20Python%20Overview.pdf)
    - [2 of 2 Decorators Homework](https://github.com/franpanteli/Python-Bootcamp-Module-12-Decorators-With-Python/blob/main/Notes%20on%20Videos%20-%20Module%2012%20Decorators%20With%20Python/2%20of%202%20Decorators%20Homework.pdf)
 

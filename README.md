@@ -19,12 +19,12 @@ This repository is organised into the following sections:
    - [02-Decorators Homework](https://github.com/franpanteli/Python-Bootcamp-Module-12-Decorators-With-Python/blob/main/Jupyter%20Notebooks%20-%20Python%20Decorators/02-Decorators%20Homework.ipynb)
 
 2. **Notes on Videos - Module 12 Decorators With Python:**
-   This section contains PDF notes summarising the key points from the video lectures in Module 12.
+   this section contains PDF notes summarising the key points from the video lectures in Module 12.
    - [1 of 2 Decorators with Python Overview](https://github.com/franpanteli/Python-Bootcamp-Module-12-Decorators-With-Python/blob/main/Notes%20on%20Videos%20-%20Module%2012%20Decorators%20With%20Python/1%20of%202%20Decorators%20with%20Python%20Overview.pdf)
    - [2 of 2 Decorators Homework](https://github.com/franpanteli/Python-Bootcamp-Module-12-Decorators-With-Python/blob/main/Notes%20on%20Videos%20-%20Module%2012%20Decorators%20With%20Python/2%20of%202%20Decorators%20Homework.pdf)
 
 3. **Slides:**
-   This section contains the slides used in the video lectures.
+   this section contains the slides used in the video lectures.
    - [Python Decorators Slides](https://github.com/franpanteli/Python-Bootcamp-Module-12-Decorators-With-Python/blob/main/Python%20Decorators%20Slides.pdf)
 
 ### To Clone This Repository
